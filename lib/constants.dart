@@ -1,0 +1,1 @@
+const String api = "https://raw.githubusercontent.com/imp-sike/mockfake/main/products.json";
